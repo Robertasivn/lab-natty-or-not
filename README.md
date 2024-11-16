@@ -1,4 +1,4 @@
-# Título do Projeto Como os Avatares de IA Estão Transformando o Mundo dos Negócios
+# Como os Avatares de IA Estão Transformando o Mundo dos Negócios
 
 ## 📒 Descrição
 O vídeo explora como os avatares alimentados por inteligência artificial estão redefinindo a forma como as empresas interagem com seus clientes, treinam suas equipes e otimizam suas operações.
