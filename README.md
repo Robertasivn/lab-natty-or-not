@@ -4,14 +4,15 @@
 O vídeo explora como os avatares alimentados por inteligência artificial estão redefinindo a forma como as empresas interagem com seus clientes, treinam suas equipes e otimizam suas operações.
 
 ## 🤖 Tecnologias Utilizadas
-CHATGPT para criação de texto
-D-ID para criação de avatar
+IA Generativa ChatGPT para roteiro
+IA Generativa D-ID geração de avatar virtual
+Software Adobe Premiere para edição de vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi usado o "ChatGPT" para solicitação do roteiro do vídeo e o "D-ID" para criar um avatar virtual ao vídeo. O Adobe Premiere foi utilizado para realização da montagem e edição do vídeo.
 
 ## 🚀 Resultados
 Mostrar como os avatares estão não apenas facilitando a comunicação, mas também criando novas oportunidades para empresas se destacarem no mercado digital.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
